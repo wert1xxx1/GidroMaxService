@@ -142,4 +142,5 @@ server/
 
 Для вопросов по проекту обращайтесь:
 - Email: maksimsedogubov11341@gmail.com
-- Телефон: +7 (963) 910-64-30
+- Telegram: [@Wert1xxx_IT](https://t.me/@Wert1xxx_IT)
+- VKontakte: [@wert1x.official](https://vk.com/wert1x.official)
